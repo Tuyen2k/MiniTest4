@@ -1,0 +1,18 @@
+- Xây dựng chương trình quản lý sản phẩm cho 1 cửa hàng
+- Yêu cầu tính năng:
+	- Thêm danh mục sản phẩm (Category)
+	- Sửa danh mục
+	- Hiển thị danh sách danh mục
+	- Thêm sản phẩm (Product)
+	- Sửa sản phẩm 
+		- Lưu ý: Category được lựa chọn từ danh sách có sẵn ở trên
+	- Hiển thị danh sách sản phẩm
+	- Hiển thị sản phẩm có giá cao nhất, thấp nhất
+	- Tìm kiếm sản phẩm theo tên
+	- Tìm kiếm sản phẩm theo giá
+	- Hiển thị danh sách sản phẩm theo danh mục
+	- Đọc ghi 2 danh sách vào 2 file riêng biệt
+- Các thuộc tính và cấu trúc dự án mn tự thiết kế phù hợp với tính năng
+- Yêu câu khi demo không phát sinh lỗi, clean code
+
+- Mai nếu trên 50% đã làm (80%) sẽ chữa, nếu không deadline thứ 2 nhé.
